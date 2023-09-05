@@ -1,3 +1,1 @@
-my first program on python
-
- Python - Hello, World
+ 0X00-Python-hello world
